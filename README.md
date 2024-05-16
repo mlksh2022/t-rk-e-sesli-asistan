@@ -34,4 +34,4 @@ guide resimdeki gibi dinleniyor yazısı varken konuşabilirsiniz
 sesli asistan konuşmanız bittikten 3 saniye sonra dinlemeyi keser ve api yardımıyla chat gpt 4 chatbotunun yanıtını sesli bir şekilde size okur
 tekrar konuşmak için dinlemeye başla butonuna tıklayabilirsiniz
 
-eğer kod çalışmıyorsa tokeninizi kontrol ediniz, tükenmiş olabilir
+eğer kod çalışmıyorsa tokeninizi kontrol ediniz, tokeniniz tükenmiş olabilir
