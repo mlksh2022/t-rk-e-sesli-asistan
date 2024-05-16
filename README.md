@@ -2,7 +2,7 @@
 türkçe sesli asistan chat gpt yardımıyla yapılmıştır
 
 
-## Burulum
+## Kurulum
 kullanmaya başlamadan önce gerekli kütüphaneleri kuralım
 bunu yapmak için requirements.txt içindeki kütüphaneleri sürümleriyle birlikte kurmamız gerek
 bu işlemi kısa yoldan hedef dosya dizinin içinde python terminali içerisine
